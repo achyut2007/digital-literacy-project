@@ -63,14 +63,14 @@ We discuss proper etiquettes, best use and risks of the digital world.
    
       **Part A:** Case Study
    
-         Write a 200–250 word case study describing: what the crime is, how it typically
-         happens (step-by-step), who is usually targeted, and what the consequences are. You may use a real published incident (with source) or write a realistic fictional scenario.
+      Write a 200–250 word case study describing: what the crime is, how it typically
+      happens (step-by-step), who is usually targeted, and what the consequences are. You may use a real published incident (with source) or write a realistic fictional scenario.
    
-         Topic: Ransomware
+      Topic: Ransomware
    
       **Part B:** Prevention List
    
-         Create a 'Stay Safe Online' checklist with at least 8 specific, actionable prevention
-         tips relevant to college students in India.
+      Create a 'Stay Safe Online' checklist with at least 8 specific, actionable prevention
+      tips relevant to college students in India.
    
    

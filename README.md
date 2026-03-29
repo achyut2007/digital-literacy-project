@@ -1,20 +1,14 @@
-# digital-literacy-project
-
 # Digital Literacy Project
 
 **Name:** Achyut Srivastava
 
 **Reg No.:** 25BAI10137
 
-
-
 The digital literacy project is a part of the course **Digital Literacy** ```CSE0001```.
 
 Here we act as Digital Ambassdor and perform the following tasks in order to spread awareness among our peers about the good and the bad of the digital world.
 
 We discuss proper etiquettes, best use and risks of the digital world.
-
-
 
 ## Tasks
 
@@ -58,25 +52,25 @@ We discuss proper etiquettes, best use and risks of the digital world.
    
    **Part A:** Write two professional emails
    
-   Email 1 — Write an email from a student to their professor requesting an extension on an assignment submission deadline. The email must follow all professional email rules.
-   Email 2 — Write an email from a student to an internship coordinator at a company, expressing interest in a summer internship opportunity.
+      Email 1 — Write an email from a student to their professor requesting an extension on an assignment submission deadline. The email must follow all professional email rules.
+      Email 2 — Write an email from a student to an internship coordinator at a company, expressing interest in a summer internship opportunity.
    
    **Part B:** Create a Social Media Do's and Don'ts checklist.
    
-   Create a simple checklist (can be a table or a bulleted list in your report) with at least 5 Do's and 5 Don'ts for responsible social media use as a college student.
+      Create a simple checklist (can be a table or a bulleted list in your report) with at least 5 Do's and 5 Don'ts for responsible social media use as a college student.
 
 5.  **Task 5:** As a Digital Ambassador, you are expected to help your peers recognize and avoid online threats. This task requires you to research a real or realistic cybercrime scenario and produce an awareness resource.
    
-   **Part A:** Case Study
+      **Part A:** Case Study
    
-   Write a 200–250 word case study describing: what the crime is, how it typically
-   happens (step-by-step), who is usually targeted, and what the consequences are. You may use a real published incident (with source) or write a realistic fictional scenario.
+         Write a 200–250 word case study describing: what the crime is, how it typically
+         happens (step-by-step), who is usually targeted, and what the consequences are. You may use a real published incident (with source) or write a realistic fictional scenario.
    
-   Topic: Ransomware
+         Topic: Ransomware
    
-   **Part B:** Prevention List
+      **Part B:** Prevention List
    
-   Create a 'Stay Safe Online' checklist with at least 8 specific, actionable prevention
-   tips relevant to college students in India.
+         Create a 'Stay Safe Online' checklist with at least 8 specific, actionable prevention
+         tips relevant to college students in India.
    
    
